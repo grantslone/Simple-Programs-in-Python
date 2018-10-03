@@ -21,7 +21,9 @@ Thanks!
 | [TicTacToe.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/TicTacToe.py)   | 2 Player Tic Tac Toe    | [Aakanksha](https://github.com/accakks)     |
 | [RockPaperScissors.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/RockPaperScissors.py)   | Rock Paper Scissors with Computer   | [Aakanksha](https://github.com/accakks)     |
 | [countCharacter.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/countCharacter.py)   | Counts number of times each character occurs in the input string.    | [Aakanksha](https://github.com/accakks)     |
-| [BaseConverter.py](https://github.com/accakks/Simple-Programs-in-Python/blob/master/BaseConverter.py)		| Converts an input number from one base to another.	| [grantslone](https://github.com/grantslone)	|
+| [BaseConverter.py](https://github.com/grantslone/Simple-Programs-in-Python/blob/master/BaseConverter.py)		| Converts an input number from one base to another.	| [grantslone](https://github.com/grantslone)	|
+| [PasswordGenerator.py](https://github.com/Renderer-RCT2/Simple-Programs-in-Python/blob/master/PasswordGenerator.py)   | Generates random passwords with an assortment of characters.  | [Professor Renderer](https://github.com/Renderer-RCT2)  |
+
 
 
 
